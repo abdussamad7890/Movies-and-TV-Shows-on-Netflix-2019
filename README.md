@@ -1,7 +1,7 @@
 # Movies and TV Shows on Netflix 2019
 
 ## Objective:
-To creat three different types of visualizations analyzing the Netflix Movies and TV Shows dataset, and a dashboard to display all of them together.
+To create three different types of visualizations after analyzing the Netflix Movies and TV Shows dataset, and a dashboard to display all of them together.
 
 ## Details:
 Created 3 different kind of Visualization using the Netflix Movies and TV shows dataset:
